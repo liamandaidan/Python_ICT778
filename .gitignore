@@ -1,2 +1,5 @@
-A1/book.txt
+.txt
 venv.*
+*.pyc
+.idea
+.vscode
